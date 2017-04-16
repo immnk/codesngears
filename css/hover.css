@@ -207,6 +207,6 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 		display: inline-block;
 		float: none;
 		margin: 10px auto;
-		width: 100%;
+		min-width: 100%;
 	}
 }

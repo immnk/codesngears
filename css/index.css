@@ -69,6 +69,17 @@ body {
 	font-weight: 400;
 }
 
+.timeline {
+	width: 90%;
+	max-width: 69em;
+	margin: 0 auto;
+	padding: 0 1.875em 3.125em 1.875em;
+}
+
+.title {
+	font-weight: lighter;
+}
+
 @media screen and (max-width: 60em) {
 	.cng-header h1 {
 		font-size: 7em;
